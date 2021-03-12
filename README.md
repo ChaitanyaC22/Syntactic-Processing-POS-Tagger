@@ -31,3 +31,8 @@ You need to accomplish the following in this project:
 You can download the Jupyter notebook from below. The dataset has been read and stored in the variable ‘nltk\_data’.  Use this notebook as your starter code. 
 
 **Submission:** You need to submit final Jupyter notebook with the required modifications for this project. Also, please show the two modification techniques separately (as two separate functions) to make it easier to evaluate.
+
+
+## Jupyter Notebook Viewer
+If you are unable to view or load the jupyter IPython notebook via Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Syntactic-Processing-POS-Tagger/blob/chai_main/HMM_Viterbi_based_POS_tagging.ipynb).
+Thank you!
